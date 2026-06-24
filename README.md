@@ -4,6 +4,8 @@ A self-hosted proxy and monitoring dashboard for the Anthropic API. Every LLM ca
 
 ![Overview](https://res.cloudinary.com/dsvbbow4f/image/upload/v1782320091/Screenshot_2026-06-25_at_12.38.24_AM_sreq43.png)
 
+https://player.cloudinary.com/embed/?cloud_name=dsvbbow4f&public_id=Screen_Recording_2026-06-25_at_12.40.09_AM_inj2s7
+
 LLM costs are billed per token and accumulate fast — a prompt that works fine in testing can get expensive at scale if it's longer than it needs to be, or if you're on a heavier model where a lighter one would do. Having spend broken down by model and feature, updating in real time, makes it possible to catch those issues early.
 
 ## Features
