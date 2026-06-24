@@ -2,7 +2,7 @@
 
 A self-hosted proxy and monitoring dashboard for the Anthropic API. Every LLM call your application makes flows through it, gets logged to Postgres, and surfaces in a real-time dashboard — giving you full visibility into cost, latency, and token usage as it happens.
 
-![Overview](docs/overview.png)
+![Overview](https://res.cloudinary.com/dsvbbow4f/image/upload/v1782320091/Screenshot_2026-06-25_at_12.38.24_AM_sreq43.png)
 
 LLM costs are billed per token and accumulate fast — a prompt that works fine in testing can get expensive at scale if it's longer than it needs to be, or if you're on a heavier model where a lighter one would do. Having spend broken down by model and feature, updating in real time, makes it possible to catch those issues early.
 
